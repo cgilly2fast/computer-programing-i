@@ -1,0 +1,50 @@
+Half Price Books
+4709 Roosevelt Way NE
+books store, used books
+47.66350
+-122.31773
+Trader Joe's
+4555 Roosevelt Way NE
+food, grovery store, health food, oragnic food
+47.66271
+-122.31764
+University Public Library
+5009 Roosevelt Way NE
+libary, books
+47.66525
+-122.31791
+Scarecrow Video
+5030 Roosevelt Way NE
+video store
+47.66592
+-122.31708
+Cinema Books
+4753 Roosevelt Way NE
+film books
+47.66470	
+-122.31766
+Bombay Grill
+4737 Roosevelt Way NE
+Food, Indian restaurant,
+47.66425
+-122.31772
+Landmark Seven Gambles Theatre
+911 NE 50th St
+Movies, theatre
+47.66474
+-122.31779
+Bakker's Fine Drycleaning
+1004 NE 50th St
+Dry Cleaning
+47.66534
+-122.31703
+Waxing Boutique
+5029 Roosevelt Way NE
+waxing
+47.66591
+-122.31771
+Sundance Cinemas
+4500 9th Ave NE
+Movie theatre
+47.66189
+-122.31803
